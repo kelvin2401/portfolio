@@ -1,1 +1,2 @@
-﻿# portfolio
+﻿# Kelvin's Data Science Portfolio
+As a data enthusiast, I have attended various data science related classes and completed projects to improve my skills in data scraping, exploratory data analysis, data preprocessing and machine learning. My projects also involve natural language processing, computer vision and deep learning that will help in making predictions on more complex data.
