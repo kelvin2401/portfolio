@@ -1,8 +1,7 @@
 ﻿# Kelvin's Data Science Portfolio
 As a data enthusiast, I have attended various data science related classes and completed projects to improve my skills in data scraping, exploratory data analysis, data preprocessing and machine learning. My projects also involve natural language processing, computer vision and deep learning that will help in making predictions on more complex data.
 
-Projects:
-Projects:
+Projects:  
 Chronic Disease Prediction using BPJS Dataset  
 -Processing of large BPJS dataset that consists of FKRTL, Non-Capitation FKTP and Membership data.  
 -Models used include Decision Tree, Random Forest and Multilayer Perceptron (Artificial Neural Network)  
