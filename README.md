@@ -1,20 +1,46 @@
-﻿# Kelvin's Data Science Portfolio
-As a data enthusiast, I have attended various data science related classes and completed projects to improve my skills in data scraping, exploratory data analysis, data preprocessing and machine learning. My projects also involve natural language processing, computer vision and deep learning that will help in making predictions on more complex data.
+# Kelvin's Data Science Portfolio
 
-Projects:  
-Chronic Disease Prediction using BPJS Dataset  
--Processing of large BPJS dataset that consists of FKRTL, Non-Capitation FKTP and Membership data.  
--Models used include Decision Tree, Random Forest and Multilayer Perceptron (Artificial Neural Network)  
--Scraped hospital data from BPJS website using selenium and scrapy to make a ranking of provinces by need of new hospitals  
-Clean vs Messy Room Image Classification with Deep Learning  
--Models used include Convolutional Neural Network and transfer learning using VGG16, ResNet50 and Xception  
-Architecture Image Classification with SIFT, BRISK and KAZE Feature Extraction Algorithms and Support Vector Machine (SVM)  
-Sports Ball Object Detection  
--Scraped image data using Octoparse  
--Annotated images using Roboflow  
-Twitter Dangerous Speech Clustering, Classification and Topic Modelling  
--Scraped tweet data using snscrape  
--Visualized data using word cloud  
--Extracted text features using Word2Vec, TF-IDF and CountVectorizer  
-Sentiment Analysis of Amazon Food Reviews using Supervised Learning Methods, VADER and RoBERTa Model  
-All-NBA Team Prediction with SMOTE Oversampling and Grid Search Hyperparameter Tuning
+Welcome to my data science portfolio. I'm passionate about exploring the world of data and leveraging it to gain insights and make predictions. Below, you'll find a collection of projects that demonstrate my skills in data scraping, exploratory data analysis, data preprocessing, and machine learning. I'm also excited to share my work in the fields of natural language processing, computer vision, and deep learning, which allows me to tackle more complex and diverse data challenges.
+
+## Projects
+
+### Chronic Disease Prediction using BPJS Dataset
+
+- Processed a large BPJS dataset, which includes FKRTL, Non-Capitation FKTP, and Membership data.
+- Developed predictive models using Decision Tree, Random Forest, and Multilayer Perceptron (Artificial Neural Network).
+- Utilized web scraping techniques (Selenium and Scrapy) to extract hospital data from the BPJS website, enabling the ranking of provinces by their need for new hospitals.
+
+### Clean vs Messy Room Image Classification with Deep Learning
+
+- Employed Convolutional Neural Networks and transfer learning with VGG16, ResNet50, and Xception.
+- Created a model for classifying room images as either clean or messy, showcasing the power of deep learning in image classification tasks.
+
+### Architecture Image Classification
+
+- Employed Feature Extraction Algorithms like SIFT, BRISK, and KAZE.
+- Utilized Support Vector Machine (SVM) for classifying architectural images based on their features.
+
+### Sports Ball Object Detection
+
+- Scraped sports ball image data using Octoparse.
+- Conducted image annotation using Roboflow to train an object detection model.
+
+### Twitter Dangerous Speech Clustering, Classification, and Topic Modeling
+
+- Extracted tweets using the snscrape library.
+- Visualized data through word clouds.
+- Employed text feature extraction techniques, including Word2Vec, TF-IDF, and CountVectorizer.
+
+### Sentiment Analysis of Amazon Food Reviews
+
+- Conducted sentiment analysis on Amazon Food Reviews.
+- Explored various supervised learning methods, as well as VADER and RoBERTa models.
+
+### All-NBA Team Prediction
+
+- Employed SMOTE Oversampling and Grid Search Hyperparameter Tuning for predicting All-NBA Teams.
+
+These projects represent my journey through the exciting world of data science, and I'm thrilled to continue learning and exploring new challenges. Feel free to explore each project for more details and insights into my data science journey.
+
+Thank you for visiting my portfolio!
+
