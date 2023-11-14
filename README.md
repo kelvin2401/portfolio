@@ -4,6 +4,13 @@ Welcome to my data science portfolio. I'm passionate about exploring the world o
 
 ## Projects
 
+### Telco Customer Segmentation and Churn Prediction"
+
+- Implemented K-means clustering for customer segmentation and visualized results in Tableau.
+- Logistic regression identified as the most effective classifier for churn prediction, emphasizing the importance of Tenure Months.
+- Advocated the promotion of call center services based on their demonstrated effectiveness in reducing churn.
+- Highlighted students as a strategic target demographic, citing their high monthly consumption, extended tenure, and low churn rate.
+
 ### Chronic Disease Prediction using BPJS Dataset
 
 - Processed a large BPJS dataset, which includes FKRTL, Non-Capitation FKTP, and Membership data.
