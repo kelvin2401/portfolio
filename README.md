@@ -4,6 +4,17 @@ Welcome to my data science portfolio. I'm passionate about exploring the world o
 
 ## Projects
 
+### Home Credit Data Analysis and Risk Prediction
+
+- Processed large Home Credit data that consists of 7 tables which needs to be aggregated and merged.
+- Used Tableau to generate business insights and suggested to create marketing campaigns for accountants to take loans.
+- Conducted experiments, such as:
+  - Comparing models using only application table vs application + bureau + past application tables vs all tables.
+  - Comparing models using all columns vs removing columns with >= 80% missing values.
+  - Comparing models using all features vs using feature selection (removing features with high correlation and using variance thresholding).
+  - Comparing models based on machine learning methods: Decision Tree, K Nearest Neighbors, Gaussian Naive Bayes, Random Forest, Logistic Regression and Light Gradient-Boosting Machine.
+- Used ROC AUC score to evaluate models and chose the model which uses all tables, all features and LGBM Classifier as the best model.
+
 ### Telco Customer Segmentation and Churn Prediction
 
 - Implemented K-means clustering for customer segmentation and visualized results in Tableau.
